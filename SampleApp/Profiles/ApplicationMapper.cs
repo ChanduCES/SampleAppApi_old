@@ -1,7 +1,6 @@
 ﻿using AutoMapper;
 using SampleApp.Data;
 using SampleApp.Models;
-using System;
 using System.Globalization;
 
 namespace SampleApp.Profiles
